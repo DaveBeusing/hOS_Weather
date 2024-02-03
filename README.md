@@ -3,7 +3,7 @@
 <br>
 <br>
 
-# hOS PowerMeter
+# hOS Weather
 hOS Weather is an Arduino (c++) based "weather station", i use it on a ESP8266 ESP-12F utilizing a BME280 sensor and a OLED display.
 
 # 🔹 What is hOS
